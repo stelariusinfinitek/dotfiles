@@ -1,0 +1,5 @@
+alias update="sudo pacman -Syyu"
+alias audio="youtube-dl -x --audio-format vorbis"
+alias video="youtube-dl -f 22"
+alias mpsyt="firejail mpsyt"
+alias rtv="firejail rtv"

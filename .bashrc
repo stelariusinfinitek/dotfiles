@@ -116,4 +116,3 @@ unset use_color sh
 
 #Environment Variables
 export EDITOR=nano
-export BROWSER=inox
